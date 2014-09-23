@@ -10,5 +10,3 @@ class HelloWorldApp < Sinatra::Base
 end
 
 run HelloWorldApp
-
-xxx
