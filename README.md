@@ -1,2 +1,2 @@
-sinatra-sample
-==============
+api-docs-sample-repository
+==========================
